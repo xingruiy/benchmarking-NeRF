@@ -3,16 +3,17 @@ This is a repository dedicated to our publication **Benchmarking Neural Radiance
 If you think this repo is useful, please consider citing our paper:
 
 ```bibtex
-@misc{ming2024benchmarkingneuralradiancefields,
-      title={Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview}, 
-      author={Yuhang Ming and Xingrui Yang and Weihan Wang and Zheng Chen and Jinglun Feng and Yifan Xing and Guofeng Zhang},
-      year={2024},
-      eprint={2405.05526},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      doi={https://doi.org/10.1016/j.engappai.2024.109685},
-      url={https://arxiv.org/abs/2405.05526}, 
-}
+@article{Ming_2025,
+   title={Benchmarking neural radiance fields for autonomous robots: An overview},
+   volume={140},
+   ISSN={0952-1976},
+   url={http://dx.doi.org/10.1016/j.engappai.2024.109685},
+   DOI={10.1016/j.engappai.2024.109685},
+   journal={Engineering Applications of Artificial Intelligence},
+   publisher={Elsevier BV},
+   author={Ming, Yuhang and Yang, Xingrui and Wang, Weihan and Chen, Zheng and Feng, Jinglun and Xing, Yifan and Zhang, Guofeng},
+   year={2025},
+   month=Jan, pages={109685} }
 ```
 
 ![overview](taxonomy.png)
